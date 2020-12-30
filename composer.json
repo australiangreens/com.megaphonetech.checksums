@@ -1,0 +1,10 @@
+{
+     "name": "australian_greens/com.megaphonetech.checksums",
+     "type": "drupal-module",
+     "description": "This extension allows creating and validating checksums via the API",
+     "require": {
+       "composer/installers": "~1.0",
+       "drupal/drupal": "~7"
+     }
+
+}
